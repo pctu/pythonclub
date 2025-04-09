@@ -14,8 +14,3 @@ for i in range(random.randint(1,3)):
         print("You lose!")
     else: 
         print("You win!")
-# This is a simple rock-paper-scissors game.
-# The user inputs their choice, and the computer randomly selects one.
-# The program then compares the two choices and determines the winner.
-# The game continues until the user decides to stop playing.
-# The game is a simple implementation of the classic rock-paper-scissors game.
