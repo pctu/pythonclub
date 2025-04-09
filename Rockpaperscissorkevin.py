@@ -13,4 +13,4 @@ for i in range(random.randint(1,3)):
     user_choice == "scissor" and computer_choice == "rock":
         print("You lose!")
     else: 
-        print("You win!")
+        print("You win")
