@@ -20,7 +20,7 @@ for i in range(random.randint(1,1)):
     user_choice == "spock" and computer_choice == "lizard":
         print("You lose!")
     else: 
-        print("You win")
+        print("You win!")
 # This is a "Rock, Paper, Scissors, Lizard, Spock" game.
 # The user inputs their choice, and the computer randomly selects one.
 # The program then compares the two choices and determines the winner.
